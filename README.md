@@ -8,7 +8,13 @@ The colors are optimized for Displays and part of the X11-list created by the MI
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/entropyAMNESTY/media_images/main/python_jsx_screen01code01HTML_CSS_sna.png)  
+![App Screenshot](https://raw.githubusercontent.com/entropyAMNESTY/media_images/main/python_jsx_screen01code01HTML_CSS_sna.png)
+
+\
+\
+\
+\
+
 ![App Screenshot](https://raw.githubusercontent.com/entropyAMNESTY/media_images/main/python_jsx_screen02code02.png)
 
 
