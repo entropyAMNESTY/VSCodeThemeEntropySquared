@@ -1,4 +1,4 @@
-# EntropyRed
+# EntropySQUARED
 
 ![Logo](https://raw.githubusercontent.com/entropyAMNESTY/media_images/main/Artboard%201.png)
 
@@ -10,7 +10,6 @@ The colors are optimized for Displays and part of the X11-list created by the MI
 
 ![App Screenshot](https://raw.githubusercontent.com/entropyAMNESTY/media_images/main/python_jsx_screen01code01HTML_CSS_sna.png)
 
-\
 \
 \
 \
@@ -53,6 +52,8 @@ It comes with very nice ligatures.
 | gray26 | ![#00d1a0](https://via.placeholder.com/10/424242?text=+) #424242 |
 | gray42 | ![#f8f8f8](https://via.placeholder.com/10/6b6b6b?text=+) #6b6b6b |
 | gray50 | ![#00b48a](https://via.placeholder.com/10/7f7f7f?text=+) #7f7f7f |
+| darkorange | ![#00b48a](https://via.placeholder.com/10/ff8c00?text=+) #ff8c00 |
+| greenyellow | ![#00b48a](https://via.placeholder.com/10/adff2f?text=+) #adff2f |
 
 ## Acknowledgements
 
