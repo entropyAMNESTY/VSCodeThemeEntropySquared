@@ -1,12 +1,10 @@
-# EntropySQUARED
+# EntropySQUARED - Red Theme
 
 ![Logo](https://raw.githubusercontent.com/entropyAMNESTY/media_images/main/Artboard%201.png)
 
-Dark Theme with the primary color being red.
-The colors are optimized for Displays and part of the X11-list created by the MIT.
+### Dark Theme with the primary color being red. The colors are optimized for Displays and part of the X11-list created by the MIT.
 
-
-## Screenshots
+## Screenshot Examples | Syntax Highlighting for all popular Programming Languages
 
 ![App Screenshot](https://raw.githubusercontent.com/entropyAMNESTY/media_images/main/python_jsx_screen01code01HTML_CSS_sna.png)
 \
@@ -16,8 +14,7 @@ The colors are optimized for Displays and part of the X11-list created by the MI
 
 ## Font
 
-I highly suggest installing the JetBrains Mono font family.
-It comes with very nice ligatures.
+### I highly suggest installing the JetBrains Mono font family. It comes with very nice ligatures.
 
 ```javascript
 {
@@ -53,8 +50,8 @@ It comes with very nice ligatures.
 | greenyellow | ![#00b48a](https://via.placeholder.com/10/adff2f?text=+) #adff2f |
 
 ## Acknowledgements
-
+Further information on the X11-color-library.
  - [X11 Color Guide](https://www.w3schools.com/colors/colors_x11.asp)
 
 
- **Enjoy!**
+ ### **Enjoy!**
